@@ -1,4 +1,4 @@
 # Frontend-Project
 
-Open the MAIN filend explore the website
+Open the README file and explore the website for detailed insights and further information.
 
