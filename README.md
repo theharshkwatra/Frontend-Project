@@ -1,3 +1,4 @@
 # Frontend-Project
 
-Open the MAIN file
+Open the MAIN filend explore the website
+
