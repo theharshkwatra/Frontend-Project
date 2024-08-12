@@ -1,4 +1,4 @@
-# Frontend-Project
+# Spearow - A Clothing Website
 
 Open the MAIN.html file and explore the website for detailed insights and further information.
 
